@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/udm-app01/static/css/main.9994b29a.css",
+    "main.js": "/udm-app01/static/js/main.32946b75.js",
+    "static/js/787.e680303c.chunk.js": "/udm-app01/static/js/787.e680303c.chunk.js",
+    "index.html": "/udm-app01/index.html",
+    "main.9994b29a.css.map": "/udm-app01/static/css/main.9994b29a.css.map",
+    "main.32946b75.js.map": "/udm-app01/static/js/main.32946b75.js.map",
+    "787.e680303c.chunk.js.map": "/udm-app01/static/js/787.e680303c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9994b29a.css",
+    "static/js/main.32946b75.js"
+  ]
+}
